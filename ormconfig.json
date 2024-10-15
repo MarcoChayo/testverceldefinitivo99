@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "mysql",
+    "host": "sql10.freesqldatabase.com",
+    "port": 3306,
+    "username": "sql10732868",
+    "password": "d8YA71YnHt",
+    "database": "",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
